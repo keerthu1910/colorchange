@@ -9,6 +9,7 @@ export const Button = () => {
     return(
         <div>
             <h1>hello world</h1>
+            <h2>good day!</h2>
             {list}
             
         </div>
