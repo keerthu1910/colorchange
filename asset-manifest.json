@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/colorchange/static/js/main.dcb527fe.js",
+    "static/js/787.b1c209f5.chunk.js": "/colorchange/static/js/787.b1c209f5.chunk.js",
+    "index.html": "/colorchange/index.html",
+    "main.dcb527fe.js.map": "/colorchange/static/js/main.dcb527fe.js.map",
+    "787.b1c209f5.chunk.js.map": "/colorchange/static/js/787.b1c209f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dcb527fe.js"
+  ]
+}
